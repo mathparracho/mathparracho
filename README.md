@@ -1,4 +1,4 @@
-### expressing in code mode
+### expressing ideas in code mode
 
 <!--
 **mathparracho/mathparracho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
