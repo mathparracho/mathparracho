@@ -24,6 +24,8 @@ Hello there! I'm Matheus Parracho and it is a pleasure to have you here!
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino Ide](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 #### Frameworks
+![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=nodedotjs&logoColor=purple)
+![Flask](https://img.shields.io/badge/Flask-339933?style=for-the-badge&logo=nodedotjs&logoColor=blue)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
