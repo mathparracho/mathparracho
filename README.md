@@ -1,8 +1,8 @@
 ### Intro
-Hello there! I'm Matheus Parracho and it is a pleasure to have you here! I am part of the Aerospace Research Group (UFRJ) and we're, currently, developing two experimental sounding rockets :rocket: and two nanosatellites 🛰️
+Hello there! I'm Matheus Parracho and it is a pleasure to have you here!
 ---
 **Some facts about me**
-* 👨‍💻 I am an Electronic and Computer Engineering student @UFRJ;
+* 👨‍💻 I am an Electronic and Computer Engineering student @UFRJ doing Double Diplôme Master program at Télécom SudParis, in France;
 * 📝 I am currently developing my skills and learning more about Full Stack Development;
 * 🤩 I'm interested in Systems Engineering, Software Development and Aerospace Engineering. My main objetive is to develop, integrate and consolidate knowledge in these areas;
 #### **Feel free to contact me**
@@ -50,9 +50,3 @@ Hello there! I'm Matheus Parracho and it is a pleasure to have you here! I am pa
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ---
-#### GitHub Statistics
-![Kaio Siq GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiosiq&show_icons=true&theme=jolly) [![Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiosiq&layout=compact)](https://github.com/brendaferrari/github-readme-stats)
-<!---
-KaioSiq/KaioSiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
